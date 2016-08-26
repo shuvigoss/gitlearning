@@ -10,6 +10,6 @@
 * [代码托管](gitlab.md)
 * [远程仓库](remote.md)
 * [分支管理](branch.md)
-* [分支实战](branch-introduction.md)
+* [分支实战](branch-practice.md)
 * [tag管理](tag.md)
 * [Gitlab](gitlab-introduction.md)
