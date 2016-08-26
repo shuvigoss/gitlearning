@@ -5,7 +5,7 @@
 * [Git安装](install.md)
 * [hello world](helloworld.md)
 * [版本管理](versions.md)
-* [暂存区](stagingeara.md)
+* [暂存区](stagingarea.md)
 * [修改与撤销](modify.md)
 * [代码托管](gitlab.md)
 * [远程仓库](remote.md)
