@@ -88,12 +88,12 @@ Date:   Thu Aug 25 15:33:39 2016 +0800
 看，HEAD又回到最后一次提交的版本了。
 我们可以把上边2次reset操作通过下面这个图表来表示。
 
-|| first commit | second commit | third commit 
--- | -- | -- | -- 
-commit id|3d78e6b | afef6dd | 3d78e6b
-origin | | | HEAD
-reset1 |HEAD||
-reset2 |||HEAD
+| | first commit | second commit | third commit  |
+| ---| :--------- |:-------------:| -----:|
+| commit id     | 3d78e6b | afef6dd | 3d78e6b |
+| origin      |  |  | HEAD |
+| reset1 | HEAD |   |   |
+| reset2 |   |   | HEAD |
 
 所以版本的回退Git做的就是将HEAD指针移动到相应的commit id，所以说Git的速度快就体现在这里。
 
