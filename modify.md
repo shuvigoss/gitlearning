@@ -24,7 +24,7 @@ no changes added to commit (use "git add" and/or "git commit -a")
 
 我们可以发现add fourth blood 后执行了一次add，再没有执行commit之前又增加了fifth blood，最终执行commit后发现当前工作区的状态并没有把fifth blood 的修改提交上去。
 
-所以我们要记住一次add对应一次commit。
+所以我们要记住一次commit是将暂存区提交代码而不会提交工作区。
 
 ### 撤销修改
 
