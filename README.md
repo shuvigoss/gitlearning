@@ -11,5 +11,6 @@
 * [远程仓库](remote.md)
 * [分支管理](branch.md)
 * [分支实战](branch-practice.md)
+* [代码同步](refresh.md)
 * [tag管理](tag.md)
 * [Gitlab](gitlab-introduction.md)
